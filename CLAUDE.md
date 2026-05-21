@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md (CLAUDE.md and GEMINI.md are same)
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
 
